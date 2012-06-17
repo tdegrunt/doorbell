@@ -33,6 +33,7 @@ app.get('/doorbell', function (req, res) {
     if (response.statusCode == 201) {
       // you can get at the raw response like this...
     }
+    res.send(200);
   });
 });
 
