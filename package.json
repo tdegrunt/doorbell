@@ -1,0 +1,15 @@
+{
+  "author": "Tom de Grunt <tom@degrunt.nl>",
+  "name": "doorbell",
+  "description": "Doorbell with Arduino",
+  "version": "0.0.1",
+  "dependencies": {
+    "restler": "~2.0.1",
+    "express": "~2.5.10"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
